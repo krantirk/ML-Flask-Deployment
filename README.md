@@ -23,6 +23,8 @@ Check out the corresponding medium blog post [https://towardsdatascience.com/how
 
 # 2. Predict House Prices
 
+Download the dataset from [here](https://www.kaggle.com/shivachandel/kc-house-data).
+
 ## Environment and tools
 1. scikit-learn
 2. pandas
@@ -37,6 +39,8 @@ Check out the corresponding medium blog post [https://towardsdatascience.com/how
 where `to_predict.json` contains:
 
 `{"grade":9.0,"lat":37.45,"long":12.09,"sqft_living":1470.08,"waterfront":0.0,"yr_built":2008.0}`
+
+Output:
 
 ```
 {
