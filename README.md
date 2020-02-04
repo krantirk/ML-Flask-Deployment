@@ -1,6 +1,8 @@
 # Machine Learning Deployment Tutorials
 Sample end to end projects from data collection to putting models into production.
 
+## If this repository helps you in anyway, show your love :heart: by putting a :star: on this project :v:
+
 # 1. Predict Sales
 
 Check out the corresponding medium blog post [https://towardsdatascience.com/how-to-easily-deploy-machine-learning-models-using-flask-b95af8fe34d4](https://towardsdatascience.com/how-to-easily-deploy-machine-learning-models-using-flask-b95af8fe34d4).
