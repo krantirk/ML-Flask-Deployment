@@ -1,5 +1,5 @@
 # Machine Learning Deployment Tutorials
-Sample end to end projects from data collection to putting models into production.
+Sample end to end projects from data collection to putting models into production using flask, docker etc.
 
 ## If this repository helps you in anyway, show your love :heart: by putting a :star: on this project :v:
 
