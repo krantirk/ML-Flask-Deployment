@@ -1,8 +1,6 @@
 # Machine Learning Deployment Tutorials
 Launch machine learning models into production using flask, docker etc.
 
-## If this repository helps you in anyway, show your love :heart: by putting a :star: on this project :v:
-
 # 1. Predict Sales
 
 Check out the corresponding medium blog post [https://towardsdatascience.com/how-to-easily-deploy-machine-learning-models-using-flask-b95af8fe34d4](https://towardsdatascience.com/how-to-easily-deploy-machine-learning-models-using-flask-b95af8fe34d4).
